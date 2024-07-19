@@ -23,6 +23,6 @@
   + @return 返回值情况
   + @throws 异常抛出情况 
 
-CMD：`javadoc 参数 Java文件`
+CMD：`javadoc 参数 Java文件` `javadoc -encoding UTF-8 -charset UTF-8 Doc.java`
 
 IDEA：`Tools`->`Generate java Doc`->
