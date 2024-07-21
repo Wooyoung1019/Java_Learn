@@ -12,17 +12,17 @@
 # 标识符
 
 |              |              |             |               |            |
-|:------------:| :----------: |:-----------:|:-------------:|:----------:|
+| :----------: | :----------: | :---------: | :-----------: | :--------: |
 |   abstract   |    assert    | **boolean** |   **break**   |  **byte**  |
-|     case     |    catch     |  **char**   |   **class**   |   const    |
-| **continue** |   default    |     do      |  **double**   |  **else**  |
-|     enum     |   extends    |  **final**  |    finally    | **float**  |
-|   **for**    |     goto     |   **if**    |  implements   |   import   |
+|   **case**   |    catch     |  **char**   |   **class**   |   const    |
+| **continue** |   default    |   **do**    |  **double**   |  **else**  |
+|     enum     | **extends**  |  **final**  |    finally    | **float**  |
+|   **for**    |   **goto**   |   **if**    |  implements   | **import** |
 |  instanceof  |   **int**    |  interface  |   **long**    |   native   |
-|   **new**    |   package    | **private** | **protected** | **public** |
-|  **return**  |   stricttp   |  **short**  |  **static**   |   super    |
-|    switch    | synchronized |    this     |     throw     |   throws   |
-|  transient   |     try      |  **void**   |   volatile    |   while    |
+|   **new**    | **package**  | **private** | **protected** | **public** |
+|  **return**  |   stricttp   |  **short**  |  **static**   | **super**  |
+|  **switch**  | synchronized |  **this**   |     throw     |   throws   |
+|  transient   |     try      |  **void**   |   volatile    | **while**  |
 
 + 所有标识符都应该以字母、美元符、下划线开始
 + 首字母之后可以是字母、美元符、下划线或数字的任何符号组合
